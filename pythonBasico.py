@@ -20,3 +20,14 @@
     
 """
 #NOME = "Elias Araujo"
+
+name = "Danniel"
+idade = 17
+
+print(name, idade)
+
+limite_saque_diario = 1000
+
+BRAZILIAR_STATES = ["SP", "RJ", "RS"]
+
+print(BRAZILIAR_STATES)
